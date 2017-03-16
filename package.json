@@ -1,11 +1,15 @@
 {
   "name": "sass-inline-image",
-  "version": "0.0.3",
-  "description": "inline images as base64",
+  "version": "0.0.4-always-base64",
+  "description": "inline images as base64 as a drop-in replacement for the original function in Compass",
   "main": "index.js",
   "scripts": {},
   "author": "Joseph Clay",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wokat/sass-inline-image.git"
+  },
   "dependencies": {
     "node-sass": "^3.3.3"
   }
